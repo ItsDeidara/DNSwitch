@@ -1,0 +1,5 @@
+#this is the default hosts file for the dns proxy
+#format: hostname regex -> ip address
+
+# [My Host Entries]
+^conntest\.nintendowifi\.net$ 10.0.0.89
