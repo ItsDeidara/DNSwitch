@@ -11,3 +11,6 @@ A utitily for the Nintendo Switch to hijack the web browser
 3. Run a connection test and click okay once the switch asks you to register
 4. ???
 5. Profit.
+
+# Credits
+Visual Studio from Se7enSins for creating the scripts
