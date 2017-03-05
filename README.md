@@ -14,3 +14,6 @@ A utitily for the Nintendo Switch to hijack the web browser
 
 # Credits
 Visual Studio from Se7enSins for creating the scripts
+
+# Need help?
+Please refer to the release thread over on Se7enSins for support. https://www.se7ensins.com/forums/threads/release-dnswitch-a-utility-to-hijack-the-webbrowser.1625475/
